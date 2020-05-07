@@ -22,3 +22,6 @@
 	path = standardize
 	url = https://github.com/timosadchiy/standardize.git
 	branch = master
+[submodule "api-client"]
+	path = api-client
+	url = https://github.com/MRC-Epid-it24/api-client
