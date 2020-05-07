@@ -14,10 +14,6 @@
 	path = api-shared
 	url = https://github.com/intake24/api-shared
 	branch = master
-[submodule "api-client"]
-	path = api-client
-	url = https://github.com/intake24/api-client
-	branch = master
 [submodule "RosHTTP"]
 	path = RosHTTP
 	url = https://github.com/intake24/RosHTTP.git
