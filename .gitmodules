@@ -2,27 +2,22 @@
 	path = PTStemmer-Java
 	url = https://github.com/digitalinteraction/PTStemmer-Java
 	branch = master
-[submodule "infiauto"]
-	path = infiauto
-	url = https://github.com/digitalinteraction/infiauto
-	branch = master
-[submodule "pairwise-association-rules"]
-	path = pairwise-association-rules
-	url = https://github.com/digitalinteraction/pairwise-association-rules.git
-	branch = master
-[submodule "api-shared"]
-	path = api-shared
-	url = https://github.com/intake24/api-shared
-	branch = master
-[submodule "api-client"]
-	path = api-client
-	url = https://github.com/intake24/api-client
-	branch = master
 [submodule "RosHTTP"]
 	path = RosHTTP
 	url = https://github.com/intake24/RosHTTP.git
 	branch = master
+[submodule "api-shared"]
+	path = api-shared
+	url = https://github.com/MRC-Epid-it24/api-shared
+[submodule "api-client"]
+	path = api-client
+	url = https://github.com/MRC-Epid-it24/api-client
 [submodule "standardize"]
 	path = standardize
-	url = https://github.com/timosadchiy/standardize.git
-	branch = master
+	url = https://github.com/timosadchiy/standardize
+[submodule "pairwise-association-rules"]
+	path = pairwise-association-rules
+	url = https://github.com/digitalinteraction/pairwise-association-rules/
+[submodule "infiauto"]
+	path = infiauto
+	url = https://github.com/digitalinteraction/infiauto
