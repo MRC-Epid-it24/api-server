@@ -2,9 +2,6 @@
 	path = PTStemmer-Java
 	url = https://github.com/digitalinteraction/PTStemmer-Java
 	branch = master
-[submodule "api-shared"]
-	path = api-shared
-	url = https://github.com/MRC-Epid-it24/api-shared
 [submodule "standardize"]
 	path = standardize
 	url = https://github.com/timosadchiy/standardize
@@ -14,3 +11,6 @@
 [submodule "infiauto"]
 	path = infiauto
 	url = https://github.com/digitalinteraction/infiauto
+[submodule "api-shared"]
+	path = api-shared
+	url = https://github.com/intake24/api-shared
